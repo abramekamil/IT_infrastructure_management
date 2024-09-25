@@ -1,2 +1,2 @@
 # IT_infrastructure_management
-DRP, BIA, IRP, CMP
+Sample plans for Disaster Recovery (DRP), Business Impact Analysis (BIA), Incident Response (IRP), and Configuration Management (CMP), providing a framework for organizations to prepare for, respond to, and recover from disruptions. All data is fictional and intended for illustrative purposes only. 
